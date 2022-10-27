@@ -1,0 +1,46 @@
+body{
+    margin: 20px;
+}
+
+h1{
+    font-family:  'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:larger;
+    line-height: 10%;
+}
+
+h3{
+    font-family: monospace;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+hr{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+p{
+    font-family: monospace;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 15px;
+}
+
+.image1{
+    display: block;
+    width: 300px;
+    height: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+pre{
+    margin-left: 25%;
+    margin-right: 25%;
+}
