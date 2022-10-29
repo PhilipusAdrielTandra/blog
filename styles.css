@@ -50,16 +50,11 @@ pre{
     width: 300px;
     height: auto;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
+    position: relative;
 }
 
 .img-with-text img {
-    text-align: center;
-    display: block;
-    width: 300px;
-    height: auto;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    width: 250%;
+    padding-right: 50px;
 }
