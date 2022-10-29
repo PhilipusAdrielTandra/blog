@@ -44,3 +44,22 @@ pre{
     margin-left: 25%;
     margin-right: 25%;
 }
+
+.img-with-text {
+    display: block;
+    width: 300px;
+    height: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-with-text img {
+    text-align: center;
+    display: block;
+    width: 300px;
+    height: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
