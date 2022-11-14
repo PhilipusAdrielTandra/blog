@@ -38,6 +38,7 @@ h1{
     font-size: 29px;
     line-height: 0.2px;
     text-align: center;
+    margin-top: 30px;
 }
 
 h2{
@@ -50,6 +51,7 @@ h3{
     font-family: monospace;
     margin-left: 25%;
     margin-right: 25%;
+    font-size: 14px;
 }
 
 hr{
@@ -76,6 +78,7 @@ p{
 pre{
     margin-left: 25%;
     margin-right: 25%;
+    line-height: 30px;
 }
 
 .img-with-text {
