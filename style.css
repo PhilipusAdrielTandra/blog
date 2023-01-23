@@ -45,3 +45,7 @@ a:hover::before{
     transform-origin: left;
     transform: scaleX(1);
 }
+
+.iframepdf{
+    text-align: center;
+}
